@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I am Maksym, a physicist and aspiring ML/AI specialist.
+
+- 🌱 Currently learning Python, machine learning, and artificial intelligence.  
+- 🔭 Exploring innovative approaches to solving complex problems in science and technology.
+- 📫 Reach me at: [shinda00100@gmail.com](mailto:shinda00100@gmail.com)
 <!--
 **MarkMerrek/MarkMerrek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
